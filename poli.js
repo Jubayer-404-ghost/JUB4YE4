@@ -3,7 +3,7 @@ const fs = require("fs")
 const path = require("path")
 
 const baseApiUrl = async () => {
-  const res = await axios.get("https://raw.githubusercontent.com/mahmudx7/exe/main/baseApiUrl.json")
+  const res = await axios.get("https://raw.githubusercontent.com/Jubayer-404-ghost/JUB4YE4/main/baseApiUrl.json")
   return res.data.jubayer
 }
 

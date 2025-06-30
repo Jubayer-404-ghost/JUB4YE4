@@ -1,6 +1,6 @@
 const axios = require("axios")
 
-const baseApiUrl = "https://jubayer-birth-api20-raiwzrvum-jubayer-404-ghosts-projects.vercel.app"
+const baseApiUrl = "https://raw.githubusercontent.com/Jubayer-404-ghost/JUB4YE4/main/baseApiUrl.json"
 
 module.exports = {
   config: {
